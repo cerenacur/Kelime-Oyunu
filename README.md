@@ -2,7 +2,7 @@
  ## :ballot_box_with_check: Kurulum Talimatı
 ```javascript
 
-Kurulum için öncelikle dosyada bulunan kelimeler.bak dosyası MİCROSOFT  SQL SERVER MANAGEMENT  STUDİO  aracılığıyla veritabanı dosyası import edilir
+Kurulum için öncelikle dosyada bulunan kelimeler.bak dosyası MİCROSOFT  SQL SERVER MANAGEMENT  STUDİO  aracılığıyla veritabanı(kelime.bak) dosyası import edilir
 daha sonra veritabani bilgileri(veritabanı kullanıcı adı ve şifresi) sql.cs dosyasına girilir ve kelimeoyun.exe çalıştırılır.
 }
 ```
